@@ -1,0 +1,14 @@
+{
+    "name": "alexandre/ajax_php_pdo",
+    "authors": [
+        {
+            "name": "Alexandre Rodrigues",
+            "email": "alxrds@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
